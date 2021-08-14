@@ -6,13 +6,13 @@ import {
   BrowserRouter as Router,
   Switch,
   Route
-} from "react-router-dom";
+} from 'react-router-dom';
 
 class App extends React.Component {
 
   render() {
     console.log('app', this.props);
-    return(
+    return (
       <>
         <Router>
           <IsLoadingAndError>
