@@ -1,7 +1,9 @@
 # LAB - Number
 
-## Project Name
+## Can of Books
 
+### Deployed URL:
+[https://can-of-books-jpj.netlify.app](https://can-of-books-jpj.netlify.app)
 I build an app with a direct and powerful purpose. It does all of the things that it accomplishes well. I should describe the purpose and functionality so those that visit my README understand the app
 
 ### Author: Student/Group Name
